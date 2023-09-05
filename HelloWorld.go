@@ -9,5 +9,5 @@ import (
 // Объявляет функцию под названием main
 func main() {
 	// Выводит текст Hello на экран
-	fmt.Println("Hello, playground")
+	fmt.Println("Hello World")
 }
